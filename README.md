@@ -16,7 +16,7 @@
 
 
 <p align="center">
-    <img src="./.github/bacKgroud-2.png" alt="Page Layout" width="600px">
+    <img src="./.github/backgroud-2.png" alt="Page Layout" width="600px">
 </p>
 
 <h2 id="about"> Sobre</h2>
